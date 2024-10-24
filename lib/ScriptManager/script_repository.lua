@@ -394,6 +394,13 @@ local scripts_repository = {
         discord_url="https://discord.gg/ZHpE9YpkZG",
     },
     {
+        name="NovaSex",
+        author="NovaPlays",
+        description="A script made for the mod menu Stand, here u you can do lots of naughty things 🍆🤪🥵.",
+        project_url="https://github.com/NovaPlays134/NovaSex",
+        discord_url="https://discord.gg/f8xagJ4H6c",
+    },
+    {
         name="PlayerSearch",
         author="Parci",
         description="Social Club Player Browser",
