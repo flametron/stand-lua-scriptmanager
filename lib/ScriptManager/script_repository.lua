@@ -94,7 +94,7 @@ local scripts_repository = {
         name="DOLOS",
         author="Lance",
         description="DOLOS, named after the Greek spirit of trickery, is an advanced trolling Lua that includes many enhanced classic trolling options as well as many new, never before-seen ones.",
-        project_url = "https://github.com/thebitwise/dolos",
+        project_url = "https://github.com/calamity-inc/Dolos",
         discord_url = "https://discord.gg/zZ2eEjj88v",
     },
     {
